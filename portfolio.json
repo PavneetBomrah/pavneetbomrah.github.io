@@ -5,6 +5,13 @@
         "type":"Fun", 
         "url":"https://pavneetbomrah.github.io/Project-ToDo-List", 
         "img":"/todoList.png"
+    },
+    {
+        "id":2, 
+        "name":"Netflix UI Clone",
+        "type":"UI Clone", 
+        "url":"https://pavneetbomrah.github.io/Project-Netflix", 
+        "img":"/netflixClone.png"
     }
 
 ]
