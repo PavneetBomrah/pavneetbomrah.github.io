@@ -12,6 +12,13 @@
         "type":"UI Clone", 
         "url":"https://pavneetbomrah.github.io/Project-Netflix", 
         "img":"/netflixClone.jpg"
+    },
+    {
+        "id":3, 
+        "name":"Nexverse",
+        "type":"UI Clone", 
+        "url":"https://pavneetbomrah.github.io/Project-Nexverse", 
+        "img":"/nexverse.jpg"
     }
 
 ]
