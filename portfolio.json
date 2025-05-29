@@ -2,35 +2,7 @@
     {
         "id":1, 
         "name":"ToDo-List",
-        "type":"Single Page", 
-        "url":"https://pavneetbomrah.github.io/Project-ToDo-List", 
-        "img":"/todoList.png"
-    },
-    {
-        "id":1, 
-        "name":"ToDo-List",
-        "type":"Single Page", 
-        "url":"https://pavneetbomrah.github.io/Project-ToDo-List", 
-        "img":"/todoList.png"
-    },
-    {
-        "id":1, 
-        "name":"ToDo-List",
-        "type":"DO Page", 
-        "url":"https://pavneetbomrah.github.io/Project-ToDo-List", 
-        "img":"/todoList.png"
-    },
-    {
-        "id":1, 
-        "name":"ToDo-List",
-        "type":"DO Page", 
-        "url":"https://pavneetbomrah.github.io/Project-ToDo-List", 
-        "img":"/todoList.png"
-    },
-    {
-        "id":1, 
-        "name":"ToDo-List",
-        "type":"DO Page", 
+        "type":"Fun", 
         "url":"https://pavneetbomrah.github.io/Project-ToDo-List", 
         "img":"/todoList.png"
     }
