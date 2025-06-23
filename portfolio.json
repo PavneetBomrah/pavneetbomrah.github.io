@@ -2,7 +2,7 @@
     {
         "id":1, 
         "name":"ToDo-List",
-        "type":"Fun", 
+        "type":"Functional", 
         "url":"https://pavneetbomrah.github.io/Project-ToDo-List", 
         "img":"/todoList.png"
     },
@@ -12,6 +12,13 @@
         "type":"UI Clone", 
         "url":"https://pavneetbomrah.github.io/Project-Nexverse", 
         "img":"/nexverse.jpg"
+    },
+    {
+        "id":3, 
+        "name":"TikTakTok",
+        "type":"Functional", 
+        "url":"https://pavneetbomrah.github.io/project-TikTakTok", 
+        "img":"/tiktaktok.png"
     }
 
 ]
